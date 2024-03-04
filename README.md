@@ -1,4 +1,4 @@
-This is my first project to fulfill assignment tasks from Bootcamp Data Science Dibimbing Batch 23B. Big thanks to Bayuzen Ahmad, Octavian Wibawa Reksa and Pararawendy Indarjo as my mentor, to give me lesson, criticism and suggestions. I got this dataset from kaggle.
+This is my first project to fulfill assignment tasks from Bootcamp Data Science Dibimbing Batch 23B. Big thanks to Bayuzen Ahmad, Octavian Wibawa Reksa and Pararawendy Indarjo as mentors to give me lesson, criticism and suggestions. I got this dataset from kaggle.
 
 Dataset Source on Kaggle:https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data
 
