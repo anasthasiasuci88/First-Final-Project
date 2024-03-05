@@ -14,7 +14,7 @@ This research was conducted to analyze jobs in the data fields that are most in 
 
 Libraries such as pandas, Numpy, matplotlib, and seaborn are the most commonly used in the analysis. 
 
-''' - import numpy as np 
+import numpy as np 
 
 import pandas as pd
 
